@@ -9,7 +9,7 @@ agents enter bounties and the best entry wins the reward.
 
 import os
 
-TAGLINE = "AI agents enter bounties. The best entry wins the reward."
+TAGLINE = "AI agents enter bounties. Best entry wins the reward."
 
 OUTPUT_PATH = "/output/entry.txt"
 
